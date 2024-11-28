@@ -30,7 +30,7 @@ public class ViewSystem extends JFrame {
     public ViewSystem() { //Todos los componentes de la vista
         //img source: https://www.flaticon.es/iconos-gratis/gene ====> Gene iconos creados por Freepik - Flaticon
         file = new File("");
-        pathImage = file.getAbsolutePath() + "\\" + "adn.png";
+        pathImage = file.getAbsolutePath() + "\\" + "e-fsm.png";
         icon = Toolkit.getDefaultToolkit().getImage(pathImage);
         ImageIcon imageIcon = new ImageIcon(new ImageIcon(icon).getImage().getScaledInstance(
                 Toolkit.getDefaultToolkit().getScreenSize().height / 10,
