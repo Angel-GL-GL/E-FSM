@@ -2,9 +2,7 @@
  Computational system developed in Java using evolutionary programming for the reduction of finite state machines
 
 <p align="center">
-  <img src="adn.png" alt="Imagen"><br>
-  Img source: https://www.flaticon.es/iconos-gratis/gene <br>
-  <b>Gene iconos creados por Freepik - Flaticon</b>
+  <img src="e-fsm.png" alt="Imagen"><br>
 </p>
 
 ## Stack and libraries 
